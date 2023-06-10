@@ -1,0 +1,83 @@
+.back{
+    background-color: rgba(213, 243, 239, 0.692); ;
+}
+
+.head{
+    height: 4rem;
+    width: 79rem;
+    background-color:  rgba(19, 133, 118, 0.692);
+}
+
+.pal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-style: solid;
+    width: 1050px;
+    margin-left: 100px;
+}
+.pa{
+    display: flex;
+    
+    font-size: 15px;
+    color:  rgba(19, 133, 118, 0.692);
+    width: 15rem;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.pb{
+    background-color:  rgba(19, 133, 118, 0.692);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    height: 15px;
+    font-size: 12px;
+    
+}
+.pbb{
+    background-color:  black;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    height: 15px;
+    font-size: 12px;
+
+}
+
+.sen{
+    font-size: 20px;
+    margin-top: -1px;
+}
+.se{
+    font-size: 20px;
+    margin-top: -6px;
+    color: rgba(0, 0, 0, 0.451);
+}
+.span{
+    margin-left: 5px;
+    
+}
+
+.cover{
+    
+    margin-left: -90px;
+    border-color: yellow;
+}
+
+
+.lastbutton{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
+    width: 500px;
+}
+
+.button{
+    color: rgba(19, 133, 118, 0.692);
+    background-color:rgba(165, 229, 220, 0.692) ;
+    border:none;
+    border-radius: 10px;
+}
