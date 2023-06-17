@@ -1,10 +1,11 @@
 .back{
     background-color: rgba(213, 243, 239, 0.692); ;
+    font-family: sans-serif;
 }
 
 .head{
-    height: 4rem;
-    width: 79rem;
+    height: 6rem;
+    width: 1210px;
     background-color:  rgba(19, 133, 118, 0.692);
 }
 
@@ -16,11 +17,11 @@
     background-color: white;
     margin: 30px;
     margin-left: 100px;
-    box-shadow: 1px 2px 3px black;
+    box-shadow: 2px 1px 2px 0px black;
 }
 .pa{
     display: flex;
-    
+    margin-top: 15px;
     font-size: 15px;
     color:  rgba(19, 133, 118, 0.692);
     width: 15rem;
@@ -36,6 +37,7 @@
     height: 15px;
     font-size: 12px;
     
+    
 }
 .pbb{
     background-color:  black;
@@ -44,12 +46,13 @@
     border-radius: 5px;
     height: 15px;
     font-size: 12px;
+    
 
 }
 
 .sen{
     font-size: 20px;
-    margin-top: -1px;
+    
 }
 .se{
     font-size: 20px;
@@ -79,9 +82,9 @@
 
 .button{
     color: rgba(19, 133, 118, 0.692);
-    background-color:rgba(165, 229, 220, 0.692) ;
+    background-color: rgba(213, 243, 239, 0.692);
     border:none;
-    padding: 8px;
+    padding: 5px;
     border-radius: 10px;
     font-size: 15px;
     margin: 4px;
@@ -89,3 +92,47 @@
     
 }
 
+.ii{
+    margin-top: 12px;
+    margin-left: -50px;
+}
+
+.we{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    gap: 30px;
+    margin-top: -15px;
+    margin-left: 50px;
+}
+
+.game{
+
+    
+}
+.wee{
+    background-color:  rgba(19, 133, 118, 0.692);
+    width: 5px;
+    margin-left: -50px;
+}
+
+.pall{
+
+    z-index: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    width: 1050px;
+    background-color: white;
+    margin: 30px;
+    margin-left: 100px;
+    margin-top: -2px;
+    box-shadow: 2px 1px 2px 0px black;
+    font-size: 10px;
+}
+
+.buttonn{
+    border: none;
+    color:  rgba(19, 133, 118, 0.692);;
+    background-color: white ;
+}

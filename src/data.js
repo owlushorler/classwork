@@ -11,6 +11,7 @@ import ten from './image/the-air-filter-company.svg'
 
 const data =[{
     id:1,
+    t:true,
     img:<img src={one} alt=""></img>,
     name:"photosnap",
     book:"!New",
@@ -29,6 +30,7 @@ const data =[{
 },
 {
     id:2,
+    t:true,
     img:<img src={two} alt=""></img>,
     name:"manage",
     book:"!New",
